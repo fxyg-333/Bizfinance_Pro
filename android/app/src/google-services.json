@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426575139476",
+    "project_id": "bizfinance-pro",
+    "storage_bucket": "bizfinance-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426575139476:android:20048eb07d1c4af4a7da81",
+        "android_client_info": {
+          "package_name": "com.example.bizfinance_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJCTCBNNy0lfRej1Ts7eo_68Cp4BMaEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
